@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on "an endless siege of homework".
-- 🌱 I’m currently learning "how to survive a pandemic and C coding"
-- 😄 Pronouns: He/Him/Apache Attack Helicopter
+- 🔭 I’m currently working on "an endless siege of job applications".
+- 🌱 I’m currently learning "how to spend my free time"
 - ⚡ Fun fact: Facts are Fun
 
